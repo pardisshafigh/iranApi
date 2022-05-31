@@ -1,0 +1,17 @@
+{
+    "name": "pardis/iran",
+    "require": {
+        "firebase/php-jwt": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pardis\\Iran\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pardisshafigh",
+            "email": "pardisshafigh@gmail.com"
+        }
+    ]
+}
